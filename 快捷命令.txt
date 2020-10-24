@@ -1,0 +1,50 @@
+win +  r   运行 
+
+win + d   选择桌面 
+
+
+ctrl + shift + d  快捷创建文件夹
+
+
+win + tab  切换界面  =   alt + tab
+
+
+win + t   在工具栏中切换某个界面
+
+ctrl + shift + esc；呼出任务管理器
+
+
+ctrl + shift + delete  电脑锁屏
+     
+                        网页 web
+
+
+
+ctrl + w   关闭当年网页 
+
+ctrl + t   创建新的网页
+
+ctrl + n  另开一个窗口，创建新的网页
+
+alt + f4  关闭这个界面
+
+ctrl + num  选择某个网页的页面
+
+f6   = alt + d   搜索栏，和网页栏 转换
+
+ctrl + r  刷新当前页
+
+ctrl + tab  切换网页   
+
+ctrl + shift + t;恢复刚关闭的标签。
+
+ctrl + h；历史纪录。
+
+ctrl + j；下载列表。
+
+ctrl + f；在页面内查找。
+
+
+ctrl + d  加入书签
+
+alt + space 呼出窗口控制的菜单
